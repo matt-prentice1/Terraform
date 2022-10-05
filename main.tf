@@ -44,7 +44,6 @@ resource "google_compute_disk" "pxe-vol"{
   name = "pxe-vol"
   size = 100
   type = "pd-standard"
-  image = data.google_compute_image.my_image.self_link
 }
  
  
