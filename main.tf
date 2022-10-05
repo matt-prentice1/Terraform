@@ -14,6 +14,8 @@ provider "google" {
 resource "google_compute_instance" "pxe-server" {
   name         = "pxe-server"
   machine_type = "e2-medium"
+  --enable-nested-virtualization
+
 
   boot_disk {
     initialize_params {
