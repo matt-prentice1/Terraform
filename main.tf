@@ -34,8 +34,12 @@ resource "google_compute_network" "vpc_network" {
   auto_create_subnetworks = "true"
 }
 
-resource "google_compute_firewall_policy" "default"{
-  parent="organizations/a0df6031b"
-  short_name="allow-all"
-  description = "Testing adding a firewall policy during instance creation"
+resource "google_compute_disk" "pxe-vol"{
+  name = "pxe-vol"
+  size = 100
+  physical_block_size_bytes = 4096
+  labels = {
+    environment = dev
+  }
 }
+ 
