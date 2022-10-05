@@ -38,8 +38,5 @@ resource "google_compute_disk" "pxe-vol"{
   name = "pxe-vol"
   size = 100
   physical_block_size_bytes = 4096
-  labels = {
-    environment = dev
-  }
 }
  
