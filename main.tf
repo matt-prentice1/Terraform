@@ -13,8 +13,7 @@ provider "google" {
 
 resource "google_compute_instance" "pxe-server" {
   name         = "pxe-server"
-  machine_type = "n1-standard-4"
-  min_cpu_platform="Intel Haswell"
+  machine_type = "e2-medium"
 
   boot_disk {
     initialize_params {
