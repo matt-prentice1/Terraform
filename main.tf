@@ -19,7 +19,7 @@ resource "google_compute_instance" "pxe-server" {
   boot_disk {
     initialize_params {
       image = "ubuntu-1804-bionic-v20220901"
-      size = "100"
+      size = 100
     }
   }
 
