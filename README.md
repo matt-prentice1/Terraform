@@ -9,3 +9,7 @@ Repo for Terraform configurations
 <p> In order to run these configurations from your local machine, it is recommended to read the documentation (link provided in links section). from HashiCorp in order to properly install Terraform on to your machine.</p>
 <br/>
 <p>Once you have installed and configured Terraform, follow the below steps to run thse configurations to create a GCP VM.</p>
+<br/>
+<h2> Detailed Steps </h2>
+<p>1. Clone the repo to your local machine.
+   2. 
