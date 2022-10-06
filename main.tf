@@ -14,6 +14,7 @@ provider "google" {
 resource "google_compute_instance" "pxe-server" {
   name         = "pxe-server"
   machine_type = "e2-medium"
+  size = 100
 
   boot_disk {
     initialize_params {
@@ -33,10 +34,3 @@ resource "google_compute_network" "vpc_network" {
   name                    = "pxe-server"
   auto_create_subnetworks = "true"
 }
-
-resource "google_compute_disk" "pxe-vol"{
-  name = "pxe-vol"
-  size = 100
-  type = "pd-standard"
-}
- 
