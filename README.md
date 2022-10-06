@@ -11,5 +11,18 @@ Repo for Terraform configurations
 <p>Once you have installed and configured Terraform, follow the below steps to run thse configurations to create a GCP VM.</p>
 <br/>
 <h2> Detailed Steps </h2>
-<p>1. Clone the repo to your local machine.
-   2. 
+1. Clone the repository to your local machine.
+2. Once the repo has been cloned navigate to the location you cloned the repo to.
+3. Once you have
+
+
+
+
+
+
+
+
+
+
+Markup : [Go to TOP](#TOP)
+          section_title<a name="TOP"></a>    
