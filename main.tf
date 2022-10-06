@@ -14,7 +14,6 @@ provider "google" {
 resource "google_compute_instance" "pxe-server" {
   name         = "pxe-server"
   machine_type = "e2-medium"
-  size = 100
 
   boot_disk {
     initialize_params {
