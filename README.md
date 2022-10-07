@@ -12,8 +12,9 @@ Repo for Terraform configurations
 <br/>
 <h2> Detailed Steps </h2>
 1. Clone the repository to your local machine.
-2. Once the repo has been cloned navigate to the location you cloned the repo to.
-3. Once you have
+2. 
+3. Once the repo has been cloned navigate to the location you cloned the repo to.
+4. Once you are in the directory of the **main.tf** file run the following
 
 
 
@@ -24,5 +25,4 @@ Repo for Terraform configurations
 
 
 
-Markup : [Go to TOP](#TOP)
-          section_title<a name="TOP"></a>    
+  
