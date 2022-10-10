@@ -2,13 +2,13 @@
 <h2>Purpose</h2>
 <p>The purpose of this configuration is to create Google Cloud VMs without having to go through the clunky Google Cloud UI.</p>
 
-<h3> Setup </h3>
+<h2> Setup </h2>
 <p> In order to run these configurations from your local machine, it is recommended to read the documentation (link provided in links section). from HashiCorp in order to properly install Terraform on to your machine.</p>
 <br/>
 <p>Once you have installed and configured Terraform, follow the below steps to run thse configurations to create a GCP VM.</p>
 <br/>
 <br/>
-<h3>How to use</h3>
+<h2>How to use</h2>
 Clink the URL in order to access the pipeline for the VM Creation.
 <br/>
 <br/>
