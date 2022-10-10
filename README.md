@@ -17,4 +17,6 @@ If you cannot access the pipeline, you more than likely need to be added as a us
 Follow these steps to run the pipeline:
 1. Select DARI Motion from the organizations list.
 2. Select new-instance-creation workspace
-3. 
+3. Select <strong>Actions---->Start new run</strong>
+<br/>
+ Terraform cloud will then conduct a pull requet to the Terraform configs folder hosted in GitHub, (will be moving to Bitbucket), and then run the terraform commands that are need in order to create the new VM in GCP. 
