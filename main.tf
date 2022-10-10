@@ -11,8 +11,8 @@ provider "google" {
     zone="us-central1-c"
 }
 
-resource "google_compute_instance" "pxe-server" {
-  name         = "pxe-server"
+resource "google_compute_instance" "test-vm" {
+  name         = "test-vm"
   machine_type = "e2-medium"
 
   boot_disk {
