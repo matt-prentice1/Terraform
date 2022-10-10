@@ -1,27 +1,20 @@
+#README
 <h2>Purpose</h2>
 <p>The purpose of this configuration is to create Google Cloud VMs without having to go through the clunky Google Cloud UI.</p>
 
-<h2> How To Use </h2>
+<h3> Setup </h3>
 <p> In order to run these configurations from your local machine, it is recommended to read the documentation (link provided in links section). from HashiCorp in order to properly install Terraform on to your machine.</p>
 <br/>
 <p>Once you have installed and configured Terraform, follow the below steps to run thse configurations to create a GCP VM.</p>
 <br/>
-<h2> Detailed Steps </h2>
-1. Clone the repository to your local machine.
+<h3>How to use</h3>
+Clink the URL in order to access the pipeline for the VM Creation.
 <br/>
-2.
+Pipeline Link: https://app.terraform.io/app/DARI-Motion/workspaces/new-instance-creation
 <br/>
-3. Once the repo has been cloned navigate to the location you cloned the repo to.
+If you cannot access the pipeline, you more than likely need to be added as a user. If this is the case, please contact Matt Prentice and he will get you added to the pipeline as a user. 
 <br/>
-4. Once you are in the directory of the <strong>main.tf</strong> file run the following
-
-
-
-
-
-
-
-
-
-
-  
+Follow these steps to run the pipeline:
+1. Select DARI Motion from the organizations list.
+2. Select new-instance-creation workspace
+3. 
