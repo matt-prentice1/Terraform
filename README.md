@@ -17,7 +17,7 @@ Repo for Terraform configurations
 <br/>
 3. Once the repo has been cloned navigate to the location you cloned the repo to.
 <br/>
-4. Once you are in the directory of the **main.tf** file run the following
+4. Once you are in the directory of the <strong>main.tf</strong> file run the following
 
 
 
