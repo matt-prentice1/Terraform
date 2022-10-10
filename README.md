@@ -2,7 +2,7 @@
 Repo for Terraform configurations
 
 
-<h2>Purpose</2>
+<h2>Purpose</h2>
 <p>The purpose of this configuration is to create Google Cloud VMs without haveing to go through the clunky Google Cloud UI.</p>
 
 <h2> How To Use </h2>
