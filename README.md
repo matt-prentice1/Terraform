@@ -7,14 +7,18 @@
 <br/>
 <p>Once you have installed and configured Terraform, follow the below steps to run thse configurations to create a GCP VM.</p>
 <br/>
+<br/>
 <h3>How to use</h3>
 Clink the URL in order to access the pipeline for the VM Creation.
 <br/>
+<br/>
 Pipeline Link: https://app.terraform.io/app/DARI-Motion/workspaces/new-instance-creation
 <br/>
-If you cannot access the pipeline, you more than likely need to be added as a user. If this is the case, please contact Matt Prentice and he will get you added to the pipeline as a user. 
+<br/>
+If you cannot access the pipeline, you more than likely need to be added as a user. If this is the case, please contact <strong>Matt Prentice</strong> and he will get you added to the pipeline as a user. 
 <br/>
 Follow these steps to run the pipeline:
+<br/>
 <br/>
 1. Select DARI Motion from the organizations list.
 <br/>
