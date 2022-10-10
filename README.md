@@ -29,4 +29,5 @@ Follow these steps to run the pipeline:
 <br/>
 5. On the next screen leave <strong> plan and apply </strong> selected in the drop down box and select <strong> Start Run </strong>
 <br/>
+<br/>
  <p>Terraform cloud will then conduct a pull requet to the Terraform configs folder hosted in GitHub, (will be moving to Bitbucket), and then run the terraform commands that are need in order to create the new VM in GCP. </p>
