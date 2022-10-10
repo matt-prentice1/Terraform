@@ -17,6 +17,7 @@ Pipeline Link: https://app.terraform.io/app/DARI-Motion/workspaces/new-instance-
 <br/>
 If you cannot access the pipeline, you more than likely need to be added as a user. If this is the case, please contact <strong>Matt Prentice</strong> and he will get you added to the pipeline as a user. 
 <br/>
+<br/>
 Follow these steps to run the pipeline:
 <br/>
 <br/>
